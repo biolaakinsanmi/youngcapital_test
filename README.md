@@ -14,7 +14,7 @@ The `review.json` file contains an array of stations with both `name` and `passF
 
 The `function.js` file contains all the code/functions.  Line `120` is the main call to run the function.
 Edit the two parameters passed by entering any other two station names from the `review.json` list.
-Entering a station name not on the list displays a notice. Also, entering the same names for both paramters informs you that no fare is being charged.
+Entering a station name, not on the list displays a notice. Also, entering the same names for both parameters informs you that no fare is being charged.
 
 
 ## Further help
