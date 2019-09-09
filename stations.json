@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Noord",
+    "passFare": 10
+  },
+  {
+    "name": "Noorderpark",
+    "passFare": 15
+  },
+  {
+    "name": "Central Station",
+    "passFare": 5
+  },
+  {
+    "name": "Rokin",
+    "passFare": 20
+  },
+  {
+    "name": "Vijzelgracht",
+    "passFare": 10
+  },
+  {
+    "name": "De Pijp",
+    "passFare": 25
+  },
+  {
+    "name": "Europaplein",
+    "passFare": 25
+  }
+]
