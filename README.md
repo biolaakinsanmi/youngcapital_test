@@ -8,13 +8,14 @@ The trip can be in any direction of the route.
 
 ## RUN FUNCTION
 
-In your CLI console, cd into the solution directory and run `node function.js`. The CLI would display a log of the calculated fare.
+In your CLI console, cd into the solution directory and run `npm install` to install jest.
+Then, run `npm run test`. The CLI would display a log of the test results from tests in `get-ride-cost.test.js`.
 
 The `review.json` file contains an array of stations with both `name` and `passFare`(cost of passing through the station) properties.
 
-The `function.js` file contains all the code/functions.  Line `120` is the main call to run the function.
-Edit the two parameters passed by entering any other two station names from the `review.json` list.
-Entering a station name, not on the list displays a notice. Also, entering the same names for both parameters informs you that no fare is being charged.
+The `get-ride-cost.js` file contains the exported `getRideCost` function.
+
+Tests are listed in `get-ride-cost.test.js`.
 
 
 ## Further help
